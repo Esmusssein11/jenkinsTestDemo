@@ -5,3 +5,11 @@ C:\Users\Wilson\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows
 C:\Users\Wilson\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Wilson\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\Wilson\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\cim_data\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\cim_data\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\cim_data\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\cim_data\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\cim_data\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\cim_data\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\cim_data\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\cim_data\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
